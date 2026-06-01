@@ -1,12 +1,16 @@
-# 💰 Personal Expense Analytics
+# Personal Expense Analytics
  
-## 📌 Project Overview
+## Project Overview
 
 **Personal Expense Analytics** is a complete end-to-end data analytics project that simulates, cleans, analyzes, and visualizes one year of personal expense data for a salaried individual in India. The project covers the entire data analytics workflow — from raw data generation and cleaning to insight extraction and professional chart creation.
 
 ---
+*Intern Name:* Pranali Ingale  
+*Intern ID:* CITS2281
+*Domain:* Data Analytics  
+*Organization:* CODTECH IT Solutions
 
-## 🎯 Objectives
+## Objectives
 
 - Generate a realistic expense dataset with 1,000+ records across 10 categories
 - Perform thorough data cleaning and preprocessing
@@ -19,7 +23,7 @@
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 | Tool / Library | Version | Purpose |
 |---|---|---|
@@ -32,7 +36,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 personal_expense_analytics/
@@ -62,7 +66,7 @@ personal_expense_analytics/
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset (`expenses.csv`) is synthetically generated and contains **1,000 records** spanning **January–December 2024**.
 
@@ -90,7 +94,7 @@ The dataset (`expenses.csv`) is synthetically generated and contains **1,000 rec
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 | # | Analysis Type | Description |
 |---|---|---|
@@ -105,7 +109,7 @@ The dataset (`expenses.csv`) is synthetically generated and contains **1,000 rec
 
 ---
 
-## 📈 Charts Generated
+## Charts Generated
 
 | Chart | File | Description |
 |---|---|---|
@@ -119,7 +123,7 @@ The dataset (`expenses.csv`) is synthetically generated and contains **1,000 rec
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 > *After running the project, charts will appear in `outputs/charts/`. Add screenshots here for GitHub.*
 
@@ -135,7 +139,7 @@ The dataset (`expenses.csv`) is synthetically generated and contains **1,000 rec
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 1. **Rent is the single largest expense** (~40–45% of monthly income), which is typical for urban salaried employees.
 2. **Shopping and Education** are the next highest discretionary categories — key areas to optimize.
@@ -147,7 +151,7 @@ The dataset (`expenses.csv`) is synthetically generated and contains **1,000 rec
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -182,7 +186,7 @@ Then click **"Run All Cells"** (Kernel → Restart & Run All).
 
 ---
 
-## 🌐 GitHub Upload Checklist
+## GitHub Upload Checklist
 
 - [x] `README.md` with full documentation
 - [x] `requirements.txt` with pinned versions
@@ -194,7 +198,7 @@ Then click **"Run All Cells"** (Kernel → Restart & Run All).
 
 ---
 
-## 👤 Author
+## Author
 
 Pranali ingale
 B.Tech CSE (AI/ML) — 2nd Year 
