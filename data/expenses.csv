@@ -1,0 +1,1001 @@
+ExpenseID,Date,Category,Description,Amount,PaymentMethod,MonthlyIncome
+1,2024-01-01,Rent,Monthly Rent,8099.34,Net Banking,45000
+329,2024-01-01,Savings & Investment,Savings & Investment expense,97.48,Net Banking,45000
+601,2024-01-01,Utilities,Utilities expense,20.51,Net Banking,45000
+167,2024-01-01,Utilities,Utilities expense,20.64,Net Banking,45000
+819,2024-01-02,Healthcare,Healthcare expense,28.74,Credit Card,45000
+831,2024-01-02,Entertainment,Entertainment expense,16.93,Cash,45000
+349,2024-01-02,Healthcare,Healthcare expense,21.53,Debit Card,45000
+769,2024-01-03,Shopping,Shopping expense,32.48,Net Banking,45000
+498,2024-01-04,Food & Dining,Food & Dining expense,30.98,Credit Card,45000
+79,2024-01-04,Entertainment,Entertainment expense,25.55,Cash,45000
+896,2024-01-04,Food & Dining,Food & Dining expense,37.69,Net Banking,45000
+213,2024-01-04,Personal Care,Personal Care expense,19.89,Debit Card,45000
+501,2024-01-04,Transportation,Transportation expense,25.7,UPI,45000
+391,2024-01-05,Healthcare,Healthcare expense,19.91,Net Banking,45000
+140,2024-01-05,Savings & Investment,Savings & Investment expense,60.38,Cash,45000
+56,2024-01-06,Savings & Investment,Savings & Investment expense,103.63,Cash,45000
+245,2024-01-07,Education,Education expense,37.0,UPI,45000
+439,2024-01-08,Shopping,Shopping expense,19.56,Debit Card,45000
+785,2024-01-08,Shopping,Shopping expense,46.72,Debit Card,45000
+591,2024-01-10,Transportation,Transportation expense,22.29,Debit Card,45000
+506,2024-01-10,Utilities,Utilities expense,18.03,UPI,45000
+741,2024-01-10,Entertainment,Entertainment expense,13.95,UPI,45000
+510,2024-01-11,Utilities,Utilities expense,17.34,Debit Card,45000
+232,2024-01-11,Entertainment,Entertainment expense,26.3,Net Banking,45000
+818,2024-01-12,Healthcare,Healthcare expense,36.01,UPI,45000
+390,2024-01-12,Healthcare,Healthcare expense,22.81,UPI,45000
+412,2024-01-13,Personal Care,Personal Care expense,14.69,Net Banking,45000
+13,2024-01-13,Transportation,Transportation expense,22.97,Debit Card,45000
+156,2024-01-13,Entertainment,Entertainment expense,20.71,Credit Card,45000
+150,2024-01-13,Utilities,Utilities expense,19.59,Credit Card,45000
+186,2024-01-13,Shopping,Shopping expense,48.57,Cash,45000
+582,2024-01-14,Education,Education expense,48.77,UPI,45000
+478,2024-01-14,Savings & Investment,Savings & Investment expense,91.23,Net Banking,45000
+314,2024-01-14,Healthcare,Healthcare expense,35.32,Cash,45000
+336,2024-01-15,Transportation,Transportation expense,21.41,Net Banking,45000
+479,2024-01-15,Healthcare,Healthcare expense,55.71,Credit Card,45000
+160,2024-01-15,Education,Education expense,64.85,Cash,45000
+231,2024-01-16,Food & Dining,Food & Dining expense,26.66,Credit Card,45000
+17,2024-01-16,Food & Dining,Food & Dining expense,24.4,Cash,45000
+823,2024-01-17,Personal Care,Personal Care expense,23.25,Debit Card,45000
+424,2024-01-17,Healthcare,Healthcare expense,36.74,Debit Card,45000
+639,2024-01-18,Personal Care,Personal Care expense,14.28,Credit Card,45000
+359,2024-01-19,Personal Care,Personal Care expense,18.31,Credit Card,45000
+142,2024-01-19,Savings & Investment,Savings & Investment expense,111.14,Debit Card,45000
+326,2024-01-19,Savings & Investment,Savings & Investment expense,60.72,UPI,45000
+620,2024-01-19,Healthcare,Healthcare expense,30.01,Credit Card,45000
+368,2024-01-19,Savings & Investment,Savings & Investment expense,85.25,Net Banking,45000
+417,2024-01-20,Food & Dining,Food & Dining expense,44.91,Debit Card,45000
+563,2024-01-20,Savings & Investment,Savings & Investment expense,102.42,Debit Card,45000
+162,2024-01-20,Healthcare,Healthcare expense,35.08,Cash,45000
+153,2024-01-20,Utilities,Utilities expense,17.64,UPI,45000
+724,2024-01-20,Food & Dining,Food & Dining expense,38.45,Credit Card,45000
+145,2024-01-21,Education,Education expense,58.9,Debit Card,45000
+144,2024-01-22,Shopping,Shopping expense,42.22,Debit Card,45000
+535,2024-01-22,Savings & Investment,Savings & Investment expense,71.96,UPI,45000
+841,2024-01-23,Entertainment,Entertainment expense,24.7,UPI,45000
+27,2024-01-23,Healthcare,Healthcare expense,17.64,UPI,45000
+713,2024-01-24,Education,Education expense,46.83,UPI,45000
+820,2024-01-24,Transportation,Transportation expense,26.26,UPI,45000
+373,2024-01-24,Food & Dining,Food & Dining expense,44.11,Debit Card,45000
+31,2024-01-24,Transportation,Transportation expense,19.59,Credit Card,45000
+595,2024-01-25,Transportation,Transportation expense,26.15,Credit Card,45000
+51,2024-01-25,Transportation,Transportation expense,23.3,Cash,45000
+96,2024-01-26,Transportation,Transportation expense,16.15,Net Banking,45000
+431,2024-01-26,Food & Dining,Food & Dining expense,23.03,Debit Card,45000
+194,2024-01-26,Personal Care,Personal Care expense,14.39,Net Banking,45000
+699,2024-01-26,Transportation,Transportation expense,25.7,Debit Card,45000
+107,2024-01-26,Food & Dining,Food & Dining expense,47.59,Net Banking,45000
+708,2024-01-26,Food & Dining,Food & Dining expense,46.54,Debit Card,45000
+135,2024-01-27,Healthcare,Healthcare expense,19.73,Cash,45000
+229,2024-01-27,Savings & Investment,Savings & Investment expense,70.69,Debit Card,45000
+737,2024-01-27,Entertainment,Entertainment expense,26.54,Net Banking,45000
+488,2024-01-27,Transportation,Transportation expense,17.67,Credit Card,45000
+280,2024-01-28,Food & Dining,Food & Dining expense,29.42,Net Banking,45000
+89,2024-01-28,Personal Care,Personal Care expense,16.18,Cash,45000
+672,2024-01-29,Savings & Investment,Savings & Investment expense,43.53,Cash,45000
+843,2024-01-29,Entertainment,Entertainment expense,18.26,Credit Card,45000
+911,2024-01-29,Personal Care,Personal Care expense,16.73,Cash,45000
+532,2024-01-30,Food & Dining,Food & Dining expense,19.21,Debit Card,45000
+105,2024-01-30,Entertainment,Entertainment expense,24.03,Net Banking,45000
+67,2024-01-30,Entertainment,Entertainment expense,24.57,Credit Card,45000
+109,2024-01-30,Shopping,Shopping expense,43.09,Net Banking,45000
+858,2024-01-30,Personal Care,Personal Care expense,18.68,Net Banking,45000
+822,2024-01-31,Savings & Investment,Savings & Investment expense,113.19,Cash,45000
+2,2024-02-01,Rent,Monthly Rent,7972.35,Net Banking,45000
+745,2024-02-01,Personal Care,Personal Care expense,18.79,Credit Card,45000
+106,2024-02-01,Savings & Investment,Savings & Investment expense,93.08,Debit Card,45000
+849,2024-02-01,Healthcare,Healthcare expense,22.26,Net Banking,45000
+796,2024-02-01,Entertainment,Entertainment expense,31.32,Cash,45000
+597,2024-02-02,Personal Care,Personal Care expense,16.83,Cash,45000
+208,2024-02-02,Entertainment,Entertainment expense,28.08,UPI,45000
+951,2024-02-02,Shopping,Shopping expense,37.11,Credit Card,45000
+615,2024-02-02,Shopping,Shopping expense,69.35,UPI,45000
+286,2024-02-03,Transportation,Transportation expense,14.19,UPI,45000
+453,2024-02-03,Shopping,Shopping expense,28.17,Credit Card,45000
+892,2024-02-04,Entertainment,Entertainment expense,28.04,Credit Card,45000
+996,2024-02-04,Education,Education expense,50.78,Debit Card,45000
+483,2024-02-05,Utilities,Utilities expense,15.79,Credit Card,45000
+433,2024-02-05,Entertainment,Entertainment expense,23.38,Net Banking,45000
+244,2024-02-05,Education,Education expense,67.99,Net Banking,45000
+347,2024-02-05,Shopping,Shopping expense,22.62,Debit Card,45000
+302,2024-02-06,Personal Care,Personal Care expense,16.1,Credit Card,45000
+287,2024-02-07,Personal Care,Personal Care expense,17.12,Net Banking,45000
+122,2024-02-07,Transportation,Transportation expense,18.36,Net Banking,45000
+866,2024-02-07,Food & Dining,Food & Dining expense,29.4,Credit Card,45000
+716,2024-02-07,Healthcare,Healthcare expense,37.93,UPI,45000
+653,2024-02-07,Shopping,Shopping expense,36.77,UPI,45000
+927,2024-02-08,Entertainment,Entertainment expense,21.65,Debit Card,45000
+298,2024-02-08,Savings & Investment,Savings & Investment expense,91.15,Credit Card,45000
+533,2024-02-09,Healthcare,Healthcare expense,27.41,Cash,45000
+561,2024-02-09,Shopping,Shopping expense,43.48,Debit Card,45000
+644,2024-02-09,Personal Care,Personal Care expense,13.74,Net Banking,45000
+921,2024-02-09,Utilities,Utilities expense,21.15,Debit Card,45000
+630,2024-02-10,Transportation,Transportation expense,26.38,Debit Card,45000
+676,2024-02-10,Healthcare,Healthcare expense,21.0,Debit Card,45000
+32,2024-02-10,Healthcare,Healthcare expense,44.67,Credit Card,45000
+905,2024-02-10,Utilities,Utilities expense,19.38,Debit Card,45000
+452,2024-02-11,Transportation,Transportation expense,25.82,Debit Card,45000
+683,2024-02-11,Food & Dining,Food & Dining expense,28.3,Cash,45000
+222,2024-02-12,Food & Dining,Food & Dining expense,17.56,UPI,45000
+912,2024-02-12,Shopping,Shopping expense,42.63,UPI,45000
+68,2024-02-13,Transportation,Transportation expense,26.01,UPI,45000
+932,2024-02-13,Utilities,Utilities expense,22.76,Net Banking,45000
+289,2024-02-13,Healthcare,Healthcare expense,30.53,Credit Card,45000
+773,2024-02-15,Food & Dining,Food & Dining expense,37.56,Net Banking,45000
+512,2024-02-15,Education,Education expense,54.25,UPI,45000
+943,2024-02-15,Food & Dining,Food & Dining expense,37.7,Debit Card,45000
+465,2024-02-16,Transportation,Transportation expense,21.55,Cash,45000
+937,2024-02-16,Transportation,Transportation expense,17.92,Cash,45000
+484,2024-02-16,Food & Dining,Food & Dining expense,34.13,Net Banking,45000
+370,2024-02-16,Entertainment,Entertainment expense,20.36,UPI,45000
+705,2024-02-16,Food & Dining,Food & Dining expense,20.05,UPI,45000
+679,2024-02-17,Savings & Investment,Savings & Investment expense,103.71,Net Banking,45000
+909,2024-02-17,Food & Dining,Food & Dining expense,37.66,UPI,45000
+97,2024-02-17,Food & Dining,Food & Dining expense,34.87,Credit Card,45000
+184,2024-02-17,Education,Education expense,62.24,Credit Card,45000
+944,2024-02-17,Savings & Investment,Savings & Investment expense,83.02,Net Banking,45000
+462,2024-02-18,Utilities,Utilities expense,19.07,Debit Card,45000
+983,2024-02-20,Food & Dining,Food & Dining expense,24.76,Debit Card,45000
+876,2024-02-20,Personal Care,Personal Care expense,21.99,UPI,45000
+458,2024-02-20,Utilities,Utilities expense,16.93,Cash,45000
+926,2024-02-20,Food & Dining,Food & Dining expense,20.31,UPI,45000
+276,2024-02-21,Healthcare,Healthcare expense,32.16,Credit Card,45000
+767,2024-02-21,Food & Dining,Food & Dining expense,32.22,UPI,45000
+520,2024-02-22,Entertainment,Entertainment expense,29.51,Credit Card,45000
+939,2024-02-22,Healthcare,Healthcare expense,30.19,Credit Card,45000
+282,2024-02-22,Personal Care,Personal Care expense,19.16,Cash,45000
+241,2024-02-22,Entertainment,Entertainment expense,20.24,Debit Card,45000
+246,2024-02-24,Personal Care,Personal Care expense,16.66,UPI,45000
+901,2024-02-24,Shopping,Shopping expense,44.42,Cash,45000
+61,2024-02-24,Savings & Investment,Savings & Investment expense,75.42,Debit Card,45000
+979,2024-02-25,Transportation,Transportation expense,15.66,Credit Card,45000
+438,2024-02-26,Shopping,Shopping expense,23.44,Cash,45000
+836,2024-02-27,Entertainment,Entertainment expense,26.41,Cash,45000
+783,2024-02-27,Entertainment,Entertainment expense,27.28,Debit Card,45000
+340,2024-02-28,Entertainment,Entertainment expense,21.62,UPI,45000
+647,2024-02-28,Entertainment,Entertainment expense,11.18,Cash,45000
+404,2024-02-28,Education,Education expense,55.7,UPI,45000
+443,2024-02-28,Savings & Investment,Savings & Investment expense,43.65,Cash,45000
+328,2024-02-29,Education,Education expense,66.87,UPI,45000
+418,2024-02-29,Personal Care,Personal Care expense,17.79,Cash,45000
+416,2024-02-29,Utilities,Utilities expense,17.5,Credit Card,45000
+3,2024-03-01,Rent,Monthly Rent,8129.54,Net Banking,45000
+112,2024-03-02,Utilities,Utilities expense,18.95,Net Banking,45000
+429,2024-03-03,Entertainment,Entertainment expense,31.35,UPI,45000
+697,2024-03-03,Personal Care,Personal Care expense,18.32,Debit Card,45000
+195,2024-03-03,Entertainment,Entertainment expense,26.04,UPI,45000
+757,2024-03-03,Healthcare,Healthcare expense,32.44,Net Banking,45000
+28,2024-03-04,Savings & Investment,Savings & Investment expense,92.51,UPI,45000
+279,2024-03-05,Savings & Investment,Savings & Investment expense,86.4,Debit Card,45000
+442,2024-03-05,Food & Dining,Food & Dining expense,32.24,UPI,45000
+678,2024-03-05,Healthcare,Healthcare expense,43.77,Debit Card,45000
+432,2024-03-05,Entertainment,Entertainment expense,12.76,Net Banking,45000
+174,2024-03-06,Savings & Investment,Savings & Investment expense,91.82,Credit Card,45000
+670,2024-03-06,Education,Education expense,71.37,Net Banking,45000
+719,2024-03-06,Transportation,Transportation expense,20.55,Cash,45000
+671,2024-03-07,Shopping,Shopping expense,54.95,UPI,45000
+552,2024-03-07,Utilities,Utilities expense,18.69,Net Banking,45000
+467,2024-03-07,Education,Education expense,64.21,Net Banking,45000
+398,2024-03-08,Education,Education expense,75.31,Cash,45000
+334,2024-03-08,Savings & Investment,Savings & Investment expense,71.46,Debit Card,45000
+860,2024-03-09,Savings & Investment,Savings & Investment expense,97.66,UPI,45000
+611,2024-03-09,Education,Education expense,64.82,Cash,45000
+206,2024-03-11,Transportation,Transportation expense,18.25,Credit Card,45000
+764,2024-03-11,Healthcare,Healthcare expense,27.14,Cash,45000
+790,2024-03-12,Shopping,Shopping expense,20.07,UPI,45000
+727,2024-03-12,Savings & Investment,Savings & Investment expense,85.37,Debit Card,45000
+887,2024-03-12,Shopping,Shopping expense,47.01,Net Banking,45000
+949,2024-03-12,Shopping,Shopping expense,39.45,Debit Card,45000
+306,2024-03-13,Healthcare,Healthcare expense,29.06,Cash,45000
+405,2024-03-13,Transportation,Transportation expense,20.2,Credit Card,45000
+991,2024-03-13,Transportation,Transportation expense,22.83,Debit Card,45000
+638,2024-03-14,Food & Dining,Food & Dining expense,33.09,Net Banking,45000
+600,2024-03-14,Entertainment,Entertainment expense,27.26,Debit Card,45000
+482,2024-03-14,Shopping,Shopping expense,28.53,Net Banking,45000
+345,2024-03-15,Savings & Investment,Savings & Investment expense,75.58,UPI,45000
+759,2024-03-15,Education,Education expense,42.12,Debit Card,45000
+879,2024-03-15,Entertainment,Entertainment expense,24.9,Cash,45000
+587,2024-03-15,Education,Education expense,48.11,Credit Card,45000
+143,2024-03-16,Savings & Investment,Savings & Investment expense,52.85,UPI,45000
+739,2024-03-16,Utilities,Utilities expense,22.33,Credit Card,45000
+580,2024-03-16,Savings & Investment,Savings & Investment expense,107.88,UPI,45000
+351,2024-03-17,Personal Care,Personal Care expense,18.28,UPI,45000
+854,2024-03-17,Utilities,Utilities expense,21.38,Debit Card,45000
+902,2024-03-17,Savings & Investment,Savings & Investment expense,77.13,Credit Card,45000
+726,2024-03-17,Personal Care,Personal Care expense,17.04,Net Banking,45000
+592,2024-03-17,Entertainment,Entertainment expense,22.13,Net Banking,45000
+288,2024-03-18,Food & Dining,Food & Dining expense,37.21,Credit Card,45000
+988,2024-03-18,Savings & Investment,Savings & Investment expense,102.55,Debit Card,45000
+464,2024-03-19,Education,Education expense,58.21,UPI,45000
+802,2024-03-19,Personal Care,Personal Care expense,16.21,UPI,45000
+673,2024-03-19,Savings & Investment,Savings & Investment expense,78.15,Debit Card,45000
+835,2024-03-20,Education,Education expense,54.48,Debit Card,45000
+383,2024-03-21,Savings & Investment,Savings & Investment expense,42.52,Cash,45000
+658,2024-03-21,Healthcare,Healthcare expense,27.78,Credit Card,45000
+690,2024-03-21,Food & Dining,Food & Dining expense,36.05,UPI,45000
+701,2024-03-22,Entertainment,Entertainment expense,21.86,Debit Card,45000
+152,2024-03-22,Healthcare,Healthcare expense,31.12,Cash,45000
+22,2024-03-22,Food & Dining,Food & Dining expense,30.69,UPI,45000
+674,2024-03-23,Shopping,Shopping expense,35.54,Debit Card,45000
+138,2024-03-23,Healthcare,Healthcare expense,25.1,UPI,45000
+323,2024-03-23,Transportation,Transportation expense,18.73,Debit Card,45000
+574,2024-03-23,Utilities,Utilities expense,18.56,Credit Card,45000
+237,2024-03-24,Transportation,Transportation expense,13.9,Debit Card,45000
+149,2024-03-24,Entertainment,Entertainment expense,28.13,Credit Card,45000
+565,2024-03-24,Shopping,Shopping expense,54.41,Credit Card,45000
+728,2024-03-24,Education,Education expense,60.21,UPI,45000
+811,2024-03-25,Shopping,Shopping expense,37.76,Debit Card,45000
+307,2024-03-25,Food & Dining,Food & Dining expense,42.72,Debit Card,45000
+219,2024-03-25,Utilities,Utilities expense,18.03,UPI,45000
+100,2024-03-25,Food & Dining,Food & Dining expense,30.62,UPI,45000
+71,2024-03-25,Savings & Investment,Savings & Investment expense,92.23,Debit Card,45000
+632,2024-03-26,Utilities,Utilities expense,22.06,UPI,45000
+980,2024-03-26,Education,Education expense,66.41,Net Banking,45000
+236,2024-03-26,Education,Education expense,64.51,Net Banking,45000
+372,2024-03-26,Personal Care,Personal Care expense,18.74,Debit Card,45000
+886,2024-03-27,Personal Care,Personal Care expense,22.12,Debit Card,45000
+948,2024-03-27,Savings & Investment,Savings & Investment expense,71.16,UPI,45000
+377,2024-03-28,Shopping,Shopping expense,50.47,Credit Card,45000
+738,2024-03-28,Personal Care,Personal Care expense,19.96,Net Banking,45000
+681,2024-03-28,Shopping,Shopping expense,48.66,Net Banking,45000
+502,2024-03-30,Utilities,Utilities expense,22.82,Credit Card,45000
+441,2024-03-30,Food & Dining,Food & Dining expense,35.57,Debit Card,45000
+317,2024-03-30,Food & Dining,Food & Dining expense,37.96,UPI,45000
+161,2024-04-01,Healthcare,Healthcare expense,19.23,Net Banking,45000
+829,2024-04-01,Transportation,Transportation expense,20.32,Net Banking,45000
+4,2024-04-01,Rent,Monthly Rent,8304.61,Net Banking,45000
+824,2024-04-02,Utilities,Utilities expense,18.27,Credit Card,45000
+968,2024-04-02,Savings & Investment,Savings & Investment expense,121.02,Net Banking,45000
+319,2024-04-02,Healthcare,Healthcare expense,30.92,Net Banking,45000
+855,2024-04-04,Utilities,Utilities expense,21.84,Net Banking,45000
+888,2024-04-04,Personal Care,Personal Care expense,16.6,Net Banking,45000
+603,2024-04-05,Utilities,Utilities expense,20.74,Cash,45000
+940,2024-04-05,Transportation,Transportation expense,19.74,UPI,45000
+110,2024-04-05,Transportation,Transportation expense,21.7,Cash,45000
+86,2024-04-07,Utilities,Utilities expense,18.0,Cash,45000
+104,2024-04-07,Shopping,Shopping expense,30.37,Debit Card,45000
+864,2024-04-07,Savings & Investment,Savings & Investment expense,120.92,Cash,45000
+702,2024-04-07,Education,Education expense,70.74,Credit Card,45000
+260,2024-04-07,Savings & Investment,Savings & Investment expense,100.49,Cash,45000
+240,2024-04-11,Utilities,Utilities expense,20.7,Cash,45000
+521,2024-04-11,Healthcare,Healthcare expense,12.98,Credit Card,45000
+400,2024-04-12,Shopping,Shopping expense,54.85,Credit Card,45000
+652,2024-04-12,Personal Care,Personal Care expense,20.32,Cash,45000
+660,2024-04-12,Transportation,Transportation expense,21.42,Credit Card,45000
+154,2024-04-12,Entertainment,Entertainment expense,26.39,UPI,45000
+617,2024-04-12,Food & Dining,Food & Dining expense,33.38,Cash,45000
+877,2024-04-14,Education,Education expense,47.24,Debit Card,45000
+333,2024-04-14,Food & Dining,Food & Dining expense,33.11,Debit Card,45000
+838,2024-04-15,Entertainment,Entertainment expense,19.01,Cash,45000
+746,2024-04-16,Savings & Investment,Savings & Investment expense,70.49,Net Banking,45000
+257,2024-04-18,Personal Care,Personal Care expense,20.67,Debit Card,45000
+499,2024-04-18,Healthcare,Healthcare expense,20.12,Credit Card,45000
+43,2024-04-18,Transportation,Transportation expense,21.54,Net Banking,45000
+225,2024-04-18,Education,Education expense,47.92,UPI,45000
+869,2024-04-18,Food & Dining,Food & Dining expense,37.77,Credit Card,45000
+915,2024-04-18,Entertainment,Entertainment expense,24.43,Net Banking,45000
+473,2024-04-18,Savings & Investment,Savings & Investment expense,54.7,Credit Card,45000
+44,2024-04-18,Education,Education expense,50.48,UPI,45000
+83,2024-04-19,Personal Care,Personal Care expense,21.19,Net Banking,45000
+762,2024-04-19,Personal Care,Personal Care expense,17.81,Credit Card,45000
+99,2024-04-19,Personal Care,Personal Care expense,17.51,UPI,45000
+459,2024-04-20,Savings & Investment,Savings & Investment expense,73.93,UPI,45000
+274,2024-04-20,Entertainment,Entertainment expense,25.06,UPI,45000
+893,2024-04-21,Food & Dining,Food & Dining expense,41.03,Net Banking,45000
+867,2024-04-21,Savings & Investment,Savings & Investment expense,90.72,UPI,45000
+40,2024-04-22,Savings & Investment,Savings & Investment expense,88.94,Debit Card,45000
+394,2024-04-22,Education,Education expense,82.47,Credit Card,45000
+801,2024-04-22,Entertainment,Entertainment expense,30.63,Credit Card,45000
+497,2024-04-22,Food & Dining,Food & Dining expense,24.2,UPI,45000
+581,2024-04-23,Transportation,Transportation expense,23.35,UPI,45000
+14,2024-04-24,Entertainment,Entertainment expense,13.52,Credit Card,45000
+474,2024-04-24,Personal Care,Personal Care expense,20.92,Cash,45000
+185,2024-04-25,Healthcare,Healthcare expense,25.99,Credit Card,45000
+305,2024-04-25,Savings & Investment,Savings & Investment expense,84.58,Credit Card,45000
+766,2024-04-25,Savings & Investment,Savings & Investment expense,70.94,Credit Card,45000
+560,2024-04-25,Entertainment,Entertainment expense,22.47,Credit Card,45000
+277,2024-04-26,Healthcare,Healthcare expense,29.79,Debit Card,45000
+460,2024-04-26,Personal Care,Personal Care expense,14.51,UPI,45000
+78,2024-04-27,Savings & Investment,Savings & Investment expense,79.02,Net Banking,45000
+80,2024-04-27,Food & Dining,Food & Dining expense,16.6,Cash,45000
+41,2024-04-27,Food & Dining,Food & Dining expense,38.41,Cash,45000
+393,2024-04-27,Healthcare,Healthcare expense,16.12,Net Banking,45000
+271,2024-04-28,Healthcare,Healthcare expense,40.97,Cash,45000
+380,2024-04-28,Shopping,Shopping expense,30.3,UPI,45000
+842,2024-04-29,Personal Care,Personal Care expense,19.19,Net Banking,45000
+569,2024-04-29,Personal Care,Personal Care expense,12.82,Net Banking,45000
+18,2024-04-29,Entertainment,Entertainment expense,26.89,Net Banking,45000
+356,2024-04-29,Utilities,Utilities expense,16.99,UPI,45000
+369,2024-04-30,Transportation,Transportation expense,22.39,Debit Card,45000
+640,2024-04-30,Transportation,Transportation expense,16.82,Debit Card,45000
+204,2024-04-30,Healthcare,Healthcare expense,37.48,Debit Card,45000
+584,2024-04-30,Education,Education expense,89.06,UPI,45000
+388,2024-05-01,Transportation,Transportation expense,29.5,UPI,45000
+5,2024-05-01,Rent,Monthly Rent,7953.17,Net Banking,45000
+594,2024-05-01,Healthcare,Healthcare expense,31.0,Debit Card,45000
+82,2024-05-01,Savings & Investment,Savings & Investment expense,92.14,Debit Card,45000
+846,2024-05-01,Education,Education expense,62.39,Debit Card,45000
+233,2024-05-02,Shopping,Shopping expense,40.55,Credit Card,45000
+297,2024-05-02,Shopping,Shopping expense,50.8,Credit Card,45000
+610,2024-05-03,Education,Education expense,77.44,Cash,45000
+602,2024-05-03,Education,Education expense,41.17,Net Banking,45000
+262,2024-05-03,Savings & Investment,Savings & Investment expense,83.81,UPI,45000
+856,2024-05-03,Personal Care,Personal Care expense,16.07,Credit Card,45000
+344,2024-05-04,Personal Care,Personal Care expense,16.23,UPI,45000
+999,2024-05-04,Shopping,Shopping expense,33.15,Net Banking,45000
+765,2024-05-04,Entertainment,Entertainment expense,31.9,Cash,45000
+85,2024-05-04,Personal Care,Personal Care expense,15.48,UPI,45000
+513,2024-05-04,Transportation,Transportation expense,21.04,UPI,45000
+688,2024-05-05,Personal Care,Personal Care expense,16.56,UPI,45000
+252,2024-05-05,Education,Education expense,68.77,Cash,45000
+38,2024-05-05,Savings & Investment,Savings & Investment expense,45.81,Credit Card,45000
+76,2024-05-06,Transportation,Transportation expense,25.29,Credit Card,45000
+752,2024-05-06,Entertainment,Entertainment expense,16.89,Debit Card,45000
+933,2024-05-06,Healthcare,Healthcare expense,14.97,Cash,45000
+201,2024-05-06,Healthcare,Healthcare expense,31.22,Debit Card,45000
+834,2024-05-06,Entertainment,Entertainment expense,20.39,UPI,45000
+698,2024-05-06,Personal Care,Personal Care expense,14.37,Credit Card,45000
+541,2024-05-06,Food & Dining,Food & Dining expense,39.19,UPI,45000
+91,2024-05-07,Transportation,Transportation expense,22.39,Credit Card,45000
+791,2024-05-07,Education,Education expense,61.44,Cash,45000
+575,2024-05-08,Shopping,Shopping expense,49.95,Cash,45000
+954,2024-05-08,Education,Education expense,76.66,Credit Card,45000
+285,2024-05-09,Food & Dining,Food & Dining expense,49.56,UPI,45000
+549,2024-05-09,Healthcare,Healthcare expense,31.34,Net Banking,45000
+973,2024-05-09,Entertainment,Entertainment expense,30.04,Credit Card,45000
+166,2024-05-10,Entertainment,Entertainment expense,27.48,Cash,45000
+861,2024-05-10,Entertainment,Entertainment expense,26.22,Credit Card,45000
+795,2024-05-13,Food & Dining,Food & Dining expense,23.85,Debit Card,45000
+224,2024-05-13,Food & Dining,Food & Dining expense,19.6,UPI,45000
+650,2024-05-13,Healthcare,Healthcare expense,34.27,UPI,45000
+46,2024-05-15,Shopping,Shopping expense,31.36,Credit Card,45000
+130,2024-05-15,Shopping,Shopping expense,33.96,Cash,45000
+118,2024-05-15,Entertainment,Entertainment expense,17.99,UPI,45000
+793,2024-05-16,Personal Care,Personal Care expense,18.18,Debit Card,45000
+57,2024-05-16,Savings & Investment,Savings & Investment expense,68.22,Debit Card,45000
+934,2024-05-17,Transportation,Transportation expense,13.2,Credit Card,45000
+950,2024-05-17,Healthcare,Healthcare expense,30.19,UPI,45000
+763,2024-05-18,Savings & Investment,Savings & Investment expense,136.2,Net Banking,45000
+916,2024-05-18,Personal Care,Personal Care expense,18.2,Cash,45000
+270,2024-05-18,Personal Care,Personal Care expense,17.83,Debit Card,45000
+402,2024-05-19,Savings & Investment,Savings & Investment expense,73.01,Credit Card,45000
+490,2024-05-19,Transportation,Transportation expense,25.53,UPI,45000
+310,2024-05-19,Utilities,Utilities expense,18.6,Net Banking,45000
+622,2024-05-19,Education,Education expense,62.07,Cash,45000
+579,2024-05-19,Shopping,Shopping expense,22.26,UPI,45000
+436,2024-05-21,Food & Dining,Food & Dining expense,33.09,Credit Card,45000
+136,2024-05-21,Utilities,Utilities expense,22.1,Cash,45000
+952,2024-05-21,Utilities,Utilities expense,19.7,UPI,45000
+476,2024-05-22,Transportation,Transportation expense,21.0,Net Banking,45000
+158,2024-05-22,Transportation,Transportation expense,23.9,Debit Card,45000
+23,2024-05-22,Education,Education expense,56.01,Credit Card,45000
+132,2024-05-24,Healthcare,Healthcare expense,28.62,Net Banking,45000
+578,2024-05-25,Transportation,Transportation expense,25.08,Cash,45000
+183,2024-05-25,Transportation,Transportation expense,17.72,Net Banking,45000
+899,2024-05-26,Savings & Investment,Savings & Investment expense,109.13,Cash,45000
+102,2024-05-26,Personal Care,Personal Care expense,16.45,UPI,45000
+588,2024-05-26,Food & Dining,Food & Dining expense,25.7,UPI,45000
+471,2024-05-27,Food & Dining,Food & Dining expense,30.3,Net Banking,45000
+754,2024-05-27,Healthcare,Healthcare expense,37.48,Credit Card,45000
+301,2024-05-27,Entertainment,Entertainment expense,20.03,Debit Card,45000
+760,2024-05-27,Food & Dining,Food & Dining expense,38.1,Cash,45000
+777,2024-05-28,Shopping,Shopping expense,31.27,Cash,45000
+509,2024-05-28,Utilities,Utilities expense,19.1,Cash,45000
+844,2024-05-28,Savings & Investment,Savings & Investment expense,92.65,Credit Card,45000
+500,2024-05-28,Healthcare,Healthcare expense,15.55,Debit Card,45000
+342,2024-05-29,Personal Care,Personal Care expense,18.11,Net Banking,45000
+970,2024-05-29,Personal Care,Personal Care expense,13.92,Cash,45000
+300,2024-05-29,Personal Care,Personal Care expense,19.07,Cash,45000
+374,2024-05-30,Food & Dining,Food & Dining expense,40.17,Debit Card,45000
+629,2024-05-30,Savings & Investment,Savings & Investment expense,86.11,Debit Card,45000
+58,2024-05-30,Transportation,Transportation expense,20.76,UPI,45000
+264,2024-05-30,Transportation,Transportation expense,17.9,Credit Card,45000
+616,2024-05-30,Food & Dining,Food & Dining expense,33.53,Credit Card,45000
+881,2024-05-31,Utilities,Utilities expense,24.05,Credit Card,45000
+6,2024-06-01,Rent,Monthly Rent,7953.17,Net Banking,45000
+753,2024-06-01,Savings & Investment,Savings & Investment expense,65.48,Credit Card,45000
+778,2024-06-01,Food & Dining,Food & Dining expense,30.52,Net Banking,45000
+171,2024-06-02,Transportation,Transportation expense,18.44,Net Banking,45000
+961,2024-06-02,Shopping,Shopping expense,47.71,Debit Card,45000
+278,2024-06-03,Shopping,Shopping expense,32.8,Cash,45000
+178,2024-06-04,Food & Dining,Food & Dining expense,44.13,Debit Card,45000
+957,2024-06-04,Shopping,Shopping expense,44.11,Cash,45000
+631,2024-06-05,Healthcare,Healthcare expense,12.77,UPI,45000
+155,2024-06-05,Education,Education expense,59.4,Credit Card,45000
+293,2024-06-05,Utilities,Utilities expense,17.82,Net Banking,45000
+874,2024-06-06,Education,Education expense,44.04,Debit Card,45000
+797,2024-06-06,Personal Care,Personal Care expense,17.4,Credit Card,45000
+704,2024-06-06,Personal Care,Personal Care expense,13.98,UPI,45000
+553,2024-06-07,Transportation,Transportation expense,26.67,Net Banking,45000
+558,2024-06-07,Education,Education expense,48.51,Credit Card,45000
+515,2024-06-07,Utilities,Utilities expense,17.85,Debit Card,45000
+570,2024-06-07,Entertainment,Entertainment expense,22.89,UPI,45000
+618,2024-06-07,Education,Education expense,65.89,Net Banking,45000
+665,2024-06-07,Transportation,Transportation expense,19.15,UPI,45000
+487,2024-06-08,Education,Education expense,45.3,Debit Card,45000
+463,2024-06-09,Utilities,Utilities expense,17.6,Debit Card,45000
+693,2024-06-09,Shopping,Shopping expense,27.03,Debit Card,45000
+646,2024-06-09,Utilities,Utilities expense,18.45,Debit Card,45000
+507,2024-06-09,Transportation,Transportation expense,19.63,Net Banking,45000
+327,2024-06-10,Transportation,Transportation expense,26.63,Debit Card,45000
+272,2024-06-10,Entertainment,Entertainment expense,16.38,Cash,45000
+120,2024-06-10,Personal Care,Personal Care expense,19.38,Cash,45000
+116,2024-06-10,Savings & Investment,Savings & Investment expense,91.03,Debit Card,45000
+919,2024-06-10,Shopping,Shopping expense,34.64,Cash,45000
+668,2024-06-11,Shopping,Shopping expense,58.05,Cash,45000
+755,2024-06-11,Personal Care,Personal Care expense,15.13,UPI,45000
+357,2024-06-11,Food & Dining,Food & Dining expense,32.35,UPI,45000
+936,2024-06-11,Utilities,Utilities expense,18.0,Debit Card,45000
+367,2024-06-11,Utilities,Utilities expense,19.45,UPI,45000
+853,2024-06-12,Savings & Investment,Savings & Investment expense,72.25,UPI,45000
+696,2024-06-12,Transportation,Transportation expense,20.76,Credit Card,45000
+205,2024-06-12,Education,Education expense,34.33,Net Banking,45000
+586,2024-06-12,Food & Dining,Food & Dining expense,34.49,Cash,45000
+872,2024-06-13,Savings & Investment,Savings & Investment expense,69.03,Debit Card,45000
+536,2024-06-13,Entertainment,Entertainment expense,25.28,Net Banking,45000
+772,2024-06-13,Healthcare,Healthcare expense,22.94,Debit Card,45000
+313,2024-06-14,Utilities,Utilities expense,20.65,Net Banking,45000
+256,2024-06-15,Personal Care,Personal Care expense,16.29,Credit Card,45000
+965,2024-06-15,Entertainment,Entertainment expense,24.46,UPI,45000
+928,2024-06-16,Utilities,Utilities expense,19.75,Cash,45000
+399,2024-06-16,Healthcare,Healthcare expense,26.97,UPI,45000
+413,2024-06-16,Savings & Investment,Savings & Investment expense,54.32,Net Banking,45000
+157,2024-06-17,Utilities,Utilities expense,22.73,Debit Card,45000
+366,2024-06-17,Transportation,Transportation expense,20.4,Net Banking,45000
+547,2024-06-17,Transportation,Transportation expense,24.31,Cash,45000
+959,2024-06-17,Utilities,Utilities expense,20.14,UPI,45000
+469,2024-06-17,Savings & Investment,Savings & Investment expense,74.39,Cash,45000
+882,2024-06-17,Entertainment,Entertainment expense,21.81,Credit Card,45000
+435,2024-06-17,Entertainment,Entertainment expense,34.01,Credit Card,45000
+733,2024-06-18,Education,Education expense,61.12,Cash,45000
+81,2024-06-18,Food & Dining,Food & Dining expense,30.74,Cash,45000
+269,2024-06-18,Savings & Investment,Savings & Investment expense,76.2,Debit Card,45000
+209,2024-06-18,Utilities,Utilities expense,20.03,Net Banking,45000
+958,2024-06-19,Utilities,Utilities expense,19.91,Net Banking,45000
+516,2024-06-19,Entertainment,Entertainment expense,29.53,Credit Card,45000
+137,2024-06-19,Food & Dining,Food & Dining expense,26.23,Credit Card,45000
+322,2024-06-19,Utilities,Utilities expense,20.19,Debit Card,45000
+550,2024-06-19,Shopping,Shopping expense,32.75,Cash,45000
+868,2024-06-19,Entertainment,Entertainment expense,27.01,Debit Card,45000
+779,2024-06-20,Transportation,Transportation expense,21.7,Debit Card,45000
+226,2024-06-21,Education,Education expense,71.33,UPI,45000
+255,2024-06-21,Utilities,Utilities expense,15.96,Cash,45000
+24,2024-06-21,Entertainment,Entertainment expense,16.45,Cash,45000
+77,2024-06-22,Transportation,Transportation expense,22.35,Cash,45000
+486,2024-06-23,Personal Care,Personal Care expense,13.94,Credit Card,45000
+692,2024-06-23,Entertainment,Entertainment expense,31.96,Net Banking,45000
+258,2024-06-23,Healthcare,Healthcare expense,21.63,Debit Card,45000
+559,2024-06-23,Entertainment,Entertainment expense,27.37,UPI,45000
+284,2024-06-23,Personal Care,Personal Care expense,14.41,Credit Card,45000
+348,2024-06-23,Utilities,Utilities expense,16.19,Net Banking,45000
+133,2024-06-24,Entertainment,Entertainment expense,18.63,Credit Card,45000
+998,2024-06-24,Food & Dining,Food & Dining expense,37.63,Cash,45000
+992,2024-06-24,Healthcare,Healthcare expense,10.38,UPI,45000
+163,2024-06-25,Utilities,Utilities expense,21.32,Debit Card,45000
+384,2024-06-25,Personal Care,Personal Care expense,16.19,Net Banking,45000
+268,2024-06-25,Savings & Investment,Savings & Investment expense,56.4,UPI,45000
+26,2024-06-25,Education,Education expense,56.66,Net Banking,45000
+675,2024-06-26,Entertainment,Entertainment expense,16.55,Net Banking,45000
+124,2024-06-27,Shopping,Shopping expense,23.18,Cash,45000
+551,2024-06-28,Shopping,Shopping expense,41.04,Debit Card,45000
+519,2024-06-28,Education,Education expense,56.49,Credit Card,45000
+481,2024-06-28,Education,Education expense,53.08,Cash,45000
+472,2024-06-29,Healthcare,Healthcare expense,12.72,Cash,45000
+470,2024-06-30,Utilities,Utilities expense,17.85,UPI,45000
+147,2024-06-30,Transportation,Transportation expense,17.05,Net Banking,45000
+904,2024-06-30,Healthcare,Healthcare expense,39.51,Debit Card,45000
+609,2024-07-01,Food & Dining,Food & Dining expense,18.27,Cash,45000
+7,2024-07-01,Rent,Monthly Rent,8315.84,Net Banking,45000
+621,2024-07-01,Healthcare,Healthcare expense,20.89,Cash,45000
+930,2024-07-01,Entertainment,Entertainment expense,24.61,Net Banking,45000
+604,2024-07-03,Savings & Investment,Savings & Investment expense,112.11,Cash,45000
+715,2024-07-04,Entertainment,Entertainment expense,24.77,Net Banking,45000
+557,2024-07-04,Savings & Investment,Savings & Investment expense,75.25,Cash,45000
+49,2024-07-04,Utilities,Utilities expense,19.69,Credit Card,45000
+426,2024-07-04,Entertainment,Entertainment expense,33.21,Cash,45000
+66,2024-07-04,Transportation,Transportation expense,27.42,Debit Card,45000
+567,2024-07-05,Utilities,Utilities expense,14.92,Credit Card,45000
+543,2024-07-05,Shopping,Shopping expense,46.36,Debit Card,45000
+721,2024-07-06,Savings & Investment,Savings & Investment expense,91.16,Credit Card,45000
+712,2024-07-06,Healthcare,Healthcare expense,27.13,UPI,45000
+401,2024-07-06,Savings & Investment,Savings & Investment expense,53.11,Net Banking,45000
+571,2024-07-07,Entertainment,Entertainment expense,25.11,Net Banking,45000
+800,2024-07-07,Healthcare,Healthcare expense,28.27,Net Banking,45000
+409,2024-07-07,Personal Care,Personal Care expense,17.8,Debit Card,45000
+863,2024-07-08,Personal Care,Personal Care expense,21.37,Cash,45000
+125,2024-07-08,Entertainment,Entertainment expense,28.52,Debit Card,45000
+643,2024-07-08,Personal Care,Personal Care expense,16.85,Debit Card,45000
+35,2024-07-08,Shopping,Shopping expense,49.87,Debit Card,45000
+576,2024-07-09,Personal Care,Personal Care expense,11.97,Net Banking,45000
+720,2024-07-10,Utilities,Utilities expense,18.89,Debit Card,45000
+608,2024-07-10,Utilities,Utilities expense,16.51,Debit Card,45000
+63,2024-07-10,Shopping,Shopping expense,26.72,Credit Card,45000
+825,2024-07-10,Utilities,Utilities expense,18.11,UPI,45000
+585,2024-07-10,Transportation,Transportation expense,22.73,Credit Card,45000
+894,2024-07-10,Personal Care,Personal Care expense,20.42,Cash,45000
+748,2024-07-11,Savings & Investment,Savings & Investment expense,69.89,Debit Card,45000
+485,2024-07-11,Entertainment,Entertainment expense,20.46,UPI,45000
+865,2024-07-12,Healthcare,Healthcare expense,22.48,Net Banking,45000
+910,2024-07-12,Utilities,Utilities expense,23.33,Net Banking,45000
+826,2024-07-12,Personal Care,Personal Care expense,21.13,UPI,45000
+974,2024-07-12,Utilities,Utilities expense,17.69,Cash,45000
+758,2024-07-13,Savings & Investment,Savings & Investment expense,88.7,UPI,45000
+25,2024-07-13,Transportation,Transportation expense,19.82,Cash,45000
+39,2024-07-13,Personal Care,Personal Care expense,14.18,Debit Card,45000
+33,2024-07-13,Transportation,Transportation expense,21.95,Debit Card,45000
+54,2024-07-14,Utilities,Utilities expense,20.22,Net Banking,45000
+641,2024-07-15,Education,Education expense,49.96,Net Banking,45000
+924,2024-07-15,Education,Education expense,44.5,Credit Card,45000
+207,2024-07-15,Entertainment,Entertainment expense,28.09,Credit Card,45000
+792,2024-07-15,Healthcare,Healthcare expense,29.87,Credit Card,45000
+534,2024-07-15,Savings & Investment,Savings & Investment expense,60.78,UPI,45000
+387,2024-07-15,Entertainment,Entertainment expense,27.05,UPI,45000
+624,2024-07-16,Personal Care,Personal Care expense,20.86,Debit Card,45000
+945,2024-07-16,Education,Education expense,82.7,Cash,45000
+358,2024-07-16,Utilities,Utilities expense,18.42,Credit Card,45000
+165,2024-07-16,Transportation,Transportation expense,25.85,Net Banking,45000
+544,2024-07-17,Healthcare,Healthcare expense,40.97,UPI,45000
+218,2024-07-18,Food & Dining,Food & Dining expense,30.61,Debit Card,45000
+214,2024-07-18,Healthcare,Healthcare expense,33.86,UPI,45000
+101,2024-07-18,Food & Dining,Food & Dining expense,21.18,Debit Card,45000
+221,2024-07-20,Food & Dining,Food & Dining expense,51.02,Net Banking,45000
+966,2024-07-20,Healthcare,Healthcare expense,40.96,Debit Card,45000
+407,2024-07-21,Transportation,Transportation expense,17.73,Cash,45000
+583,2024-07-21,Food & Dining,Food & Dining expense,37.56,Net Banking,45000
+776,2024-07-22,Food & Dining,Food & Dining expense,19.94,UPI,45000
+871,2024-07-22,Entertainment,Entertainment expense,23.94,Credit Card,45000
+963,2024-07-22,Shopping,Shopping expense,42.36,Debit Card,45000
+505,2024-07-22,Transportation,Transportation expense,19.4,Cash,45000
+428,2024-07-22,Food & Dining,Food & Dining expense,37.99,Debit Card,45000
+190,2024-07-23,Personal Care,Personal Care expense,13.71,Credit Card,45000
+694,2024-07-23,Education,Education expense,64.24,Credit Card,45000
+74,2024-07-23,Healthcare,Healthcare expense,42.08,Debit Card,45000
+159,2024-07-23,Savings & Investment,Savings & Investment expense,61.17,Net Banking,45000
+789,2024-07-24,Transportation,Transportation expense,21.72,Cash,45000
+42,2024-07-24,Education,Education expense,57.57,Debit Card,45000
+173,2024-07-25,Education,Education expense,53.84,Debit Card,45000
+90,2024-07-25,Food & Dining,Food & Dining expense,36.61,Debit Card,45000
+177,2024-07-26,Healthcare,Healthcare expense,28.12,Net Banking,45000
+261,2024-07-27,Entertainment,Entertainment expense,19.44,UPI,45000
+98,2024-07-27,Shopping,Shopping expense,43.13,UPI,45000
+339,2024-07-27,Savings & Investment,Savings & Investment expense,93.26,Cash,45000
+942,2024-07-27,Savings & Investment,Savings & Investment expense,102.45,Cash,45000
+770,2024-07-27,Shopping,Shopping expense,61.75,UPI,45000
+299,2024-07-28,Food & Dining,Food & Dining expense,39.0,UPI,45000
+363,2024-07-28,Shopping,Shopping expense,38.69,Credit Card,45000
+897,2024-07-29,Savings & Investment,Savings & Investment expense,81.66,Cash,45000
+151,2024-07-29,Education,Education expense,58.76,Credit Card,45000
+891,2024-07-30,Food & Dining,Food & Dining expense,39.06,Credit Card,45000
+878,2024-07-30,Education,Education expense,58.36,Cash,45000
+946,2024-07-30,Healthcare,Healthcare expense,18.37,UPI,45000
+330,2024-07-30,Personal Care,Personal Care expense,19.07,Cash,45000
+848,2024-07-30,Entertainment,Entertainment expense,39.73,Debit Card,45000
+492,2024-07-31,Personal Care,Personal Care expense,21.2,Debit Card,45000
+210,2024-07-31,Personal Care,Personal Care expense,27.13,Cash,45000
+816,2024-07-31,Savings & Investment,Savings & Investment expense,55.29,UPI,45000
+990,2024-07-31,Healthcare,Healthcare expense,28.24,Cash,45000
+343,2024-07-31,Healthcare,Healthcare expense,30.2,UPI,45000
+422,2024-07-31,Shopping,Shopping expense,61.06,Cash,45000
+803,2024-07-31,Education,Education expense,56.44,Net Banking,45000
+8,2024-08-01,Rent,Monthly Rent,8153.49,Net Banking,45000
+859,2024-08-01,Utilities,Utilities expense,17.9,Net Banking,45000
+775,2024-08-01,Shopping,Shopping expense,47.46,Credit Card,45000
+20,2024-08-02,Savings & Investment,Savings & Investment expense,56.75,Credit Card,45000
+742,2024-08-02,Education,Education expense,35.81,Credit Card,45000
+421,2024-08-02,Savings & Investment,Savings & Investment expense,126.21,Net Banking,45000
+227,2024-08-03,Healthcare,Healthcare expense,28.58,Debit Card,45000
+211,2024-08-03,Entertainment,Entertainment expense,28.43,UPI,45000
+593,2024-08-04,Savings & Investment,Savings & Investment expense,94.58,Cash,45000
+93,2024-08-04,Shopping,Shopping expense,31.58,Credit Card,45000
+88,2024-08-04,Education,Education expense,59.93,UPI,45000
+304,2024-08-05,Entertainment,Entertainment expense,28.66,Cash,45000
+192,2024-08-05,Transportation,Transportation expense,25.43,Credit Card,45000
+627,2024-08-05,Transportation,Transportation expense,18.04,Cash,45000
+477,2024-08-07,Entertainment,Entertainment expense,28.46,Net Banking,45000
+375,2024-08-08,Education,Education expense,87.3,Credit Card,45000
+711,2024-08-08,Transportation,Transportation expense,22.84,Credit Card,45000
+169,2024-08-08,Education,Education expense,51.32,Cash,45000
+960,2024-08-08,Education,Education expense,61.72,Net Banking,45000
+494,2024-08-08,Education,Education expense,42.08,Cash,45000
+179,2024-08-08,Entertainment,Entertainment expense,23.41,Net Banking,45000
+982,2024-08-08,Education,Education expense,61.38,Cash,45000
+931,2024-08-09,Utilities,Utilities expense,17.89,Credit Card,45000
+466,2024-08-09,Transportation,Transportation expense,21.12,Cash,45000
+248,2024-08-10,Shopping,Shopping expense,32.16,Credit Card,45000
+623,2024-08-11,Education,Education expense,83.23,UPI,45000
+217,2024-08-11,Healthcare,Healthcare expense,21.04,UPI,45000
+308,2024-08-12,Healthcare,Healthcare expense,22.68,Cash,45000
+566,2024-08-12,Shopping,Shopping expense,35.1,Cash,45000
+126,2024-08-12,Shopping,Shopping expense,66.29,Net Banking,45000
+527,2024-08-13,Shopping,Shopping expense,20.47,Cash,45000
+203,2024-08-13,Healthcare,Healthcare expense,37.75,Cash,45000
+361,2024-08-13,Transportation,Transportation expense,24.08,Cash,45000
+397,2024-08-13,Healthcare,Healthcare expense,12.58,Cash,45000
+761,2024-08-14,Education,Education expense,46.37,Debit Card,45000
+812,2024-08-14,Savings & Investment,Savings & Investment expense,76.21,Cash,45000
+95,2024-08-14,Transportation,Transportation expense,20.43,Net Banking,45000
+292,2024-08-14,Personal Care,Personal Care expense,16.27,Debit Card,45000
+528,2024-08-14,Personal Care,Personal Care expense,17.62,Debit Card,45000
+425,2024-08-15,Entertainment,Entertainment expense,28.87,UPI,45000
+938,2024-08-15,Healthcare,Healthcare expense,34.38,Debit Card,45000
+633,2024-08-16,Education,Education expense,52.63,Cash,45000
+986,2024-08-16,Entertainment,Entertainment expense,18.05,Debit Card,45000
+444,2024-08-17,Personal Care,Personal Care expense,17.28,Debit Card,45000
+263,2024-08-17,Personal Care,Personal Care expense,10.6,Cash,45000
+929,2024-08-18,Healthcare,Healthcare expense,42.09,UPI,45000
+717,2024-08-18,Savings & Investment,Savings & Investment expense,87.28,Net Banking,45000
+253,2024-08-18,Healthcare,Healthcare expense,47.1,Credit Card,45000
+538,2024-08-18,Food & Dining,Food & Dining expense,29.42,Cash,45000
+420,2024-08-20,Utilities,Utilities expense,19.14,Debit Card,45000
+461,2024-08-20,Education,Education expense,84.47,UPI,45000
+59,2024-08-20,Shopping,Shopping expense,43.98,Cash,45000
+689,2024-08-20,Healthcare,Healthcare expense,34.4,Cash,45000
+457,2024-08-20,Healthcare,Healthcare expense,27.04,Net Banking,45000
+815,2024-08-20,Food & Dining,Food & Dining expense,40.75,Credit Card,45000
+188,2024-08-21,Transportation,Transportation expense,21.71,UPI,45000
+386,2024-08-21,Healthcare,Healthcare expense,29.35,Debit Card,45000
+354,2024-08-21,Utilities,Utilities expense,18.68,Debit Card,45000
+362,2024-08-21,Savings & Investment,Savings & Investment expense,115.65,Cash,45000
+121,2024-08-22,Food & Dining,Food & Dining expense,38.83,Net Banking,45000
+706,2024-08-22,Savings & Investment,Savings & Investment expense,97.12,Credit Card,45000
+956,2024-08-22,Entertainment,Entertainment expense,31.7,Cash,45000
+448,2024-08-22,Healthcare,Healthcare expense,19.54,Cash,45000
+784,2024-08-22,Shopping,Shopping expense,47.33,Debit Card,45000
+381,2024-08-23,Healthcare,Healthcare expense,20.44,Debit Card,45000
+906,2024-08-23,Utilities,Utilities expense,19.09,Net Banking,45000
+749,2024-08-23,Shopping,Shopping expense,32.66,Net Banking,45000
+969,2024-08-24,Food & Dining,Food & Dining expense,32.18,Credit Card,45000
+572,2024-08-24,Personal Care,Personal Care expense,21.69,Debit Card,45000
+94,2024-08-24,Healthcare,Healthcare expense,25.05,Credit Card,45000
+531,2024-08-24,Healthcare,Healthcare expense,33.75,UPI,45000
+223,2024-08-24,Shopping,Shopping expense,48.24,Credit Card,45000
+196,2024-08-25,Shopping,Shopping expense,44.62,Net Banking,45000
+832,2024-08-25,Healthcare,Healthcare expense,19.73,Net Banking,45000
+987,2024-08-25,Utilities,Utilities expense,22.01,Net Banking,45000
+873,2024-08-26,Utilities,Utilities expense,16.24,Net Banking,45000
+382,2024-08-26,Food & Dining,Food & Dining expense,27.7,Debit Card,45000
+180,2024-08-26,Education,Education expense,95.8,UPI,45000
+235,2024-08-26,Entertainment,Entertainment expense,37.86,Debit Card,45000
+669,2024-08-26,Personal Care,Personal Care expense,10.87,Net Banking,45000
+663,2024-08-27,Education,Education expense,54.51,Net Banking,45000
+782,2024-08-27,Savings & Investment,Savings & Investment expense,58.29,Debit Card,45000
+607,2024-08-28,Utilities,Utilities expense,17.45,Cash,45000
+228,2024-08-28,Transportation,Transportation expense,17.69,Cash,45000
+321,2024-08-28,Transportation,Transportation expense,22.39,Debit Card,45000
+283,2024-08-28,Healthcare,Healthcare expense,42.27,UPI,45000
+364,2024-08-28,Transportation,Transportation expense,23.61,Debit Card,45000
+768,2024-08-29,Education,Education expense,81.56,Cash,45000
+182,2024-08-30,Savings & Investment,Savings & Investment expense,67.86,Credit Card,45000
+725,2024-08-30,Education,Education expense,57.56,Net Banking,45000
+267,2024-08-30,Education,Education expense,79.49,Net Banking,45000
+187,2024-08-31,Entertainment,Entertainment expense,27.84,Net Banking,45000
+732,2024-08-31,Healthcare,Healthcare expense,19.19,Cash,45000
+200,2024-08-31,Shopping,Shopping expense,26.28,UPI,45000
+994,2024-08-31,Education,Education expense,44.77,Cash,45000
+9,2024-09-01,Rent,Monthly Rent,7906.11,Net Banking,45000
+449,2024-09-02,Food & Dining,Food & Dining expense,28.39,UPI,45000
+870,2024-09-02,Transportation,Transportation expense,30.04,Credit Card,45000
+962,2024-09-02,Entertainment,Entertainment expense,32.97,Debit Card,45000
+403,2024-09-03,Healthcare,Healthcare expense,28.05,Debit Card,45000
+352,2024-09-04,Savings & Investment,Savings & Investment expense,114.51,Debit Card,45000
+953,2024-09-04,Healthcare,Healthcare expense,16.74,Cash,45000
+691,2024-09-04,Utilities,Utilities expense,18.28,UPI,45000
+250,2024-09-04,Savings & Investment,Savings & Investment expense,93.1,UPI,45000
+989,2024-09-04,Food & Dining,Food & Dining expense,30.73,Cash,45000
+202,2024-09-05,Savings & Investment,Savings & Investment expense,96.22,Credit Card,45000
+491,2024-09-05,Utilities,Utilities expense,18.98,Net Banking,45000
+216,2024-09-06,Entertainment,Entertainment expense,29.55,Credit Card,45000
+885,2024-09-07,Healthcare,Healthcare expense,34.14,UPI,45000
+65,2024-09-07,Education,Education expense,67.19,Cash,45000
+781,2024-09-09,Savings & Investment,Savings & Investment expense,88.55,Credit Card,45000
+661,2024-09-09,Entertainment,Entertainment expense,21.56,Cash,45000
+311,2024-09-09,Savings & Investment,Savings & Investment expense,80.65,UPI,45000
+851,2024-09-10,Savings & Investment,Savings & Investment expense,72.54,Cash,45000
+625,2024-09-11,Shopping,Shopping expense,59.12,UPI,45000
+379,2024-09-11,Entertainment,Entertainment expense,38.14,Net Banking,45000
+648,2024-09-12,Shopping,Shopping expense,39.35,Net Banking,45000
+925,2024-09-13,Transportation,Transportation expense,26.78,Debit Card,45000
+744,2024-09-13,Utilities,Utilities expense,19.05,Net Banking,45000
+537,2024-09-13,Personal Care,Personal Care expense,15.35,Credit Card,45000
+723,2024-09-13,Utilities,Utilities expense,16.3,Cash,45000
+60,2024-09-13,Healthcare,Healthcare expense,36.78,Credit Card,45000
+108,2024-09-14,Personal Care,Personal Care expense,17.94,Net Banking,45000
+573,2024-09-14,Utilities,Utilities expense,19.65,Net Banking,45000
+446,2024-09-14,Personal Care,Personal Care expense,19.17,Credit Card,45000
+134,2024-09-15,Healthcare,Healthcare expense,32.26,UPI,45000
+123,2024-09-16,Entertainment,Entertainment expense,33.42,Debit Card,45000
+562,2024-09-16,Transportation,Transportation expense,30.3,Net Banking,45000
+530,2024-09-16,Education,Education expense,41.44,Cash,45000
+659,2024-09-17,Education,Education expense,57.97,Credit Card,45000
+730,2024-09-17,Savings & Investment,Savings & Investment expense,69.43,Net Banking,45000
+50,2024-09-17,Shopping,Shopping expense,18.84,UPI,45000
+518,2024-09-18,Savings & Investment,Savings & Investment expense,65.45,Credit Card,45000
+517,2024-09-18,Transportation,Transportation expense,24.0,Cash,45000
+984,2024-09-18,Entertainment,Entertainment expense,24.71,Net Banking,45000
+814,2024-09-18,Transportation,Transportation expense,22.79,UPI,45000
+637,2024-09-19,Education,Education expense,67.35,Credit Card,45000
+493,2024-09-19,Entertainment,Entertainment expense,25.46,Cash,45000
+875,2024-09-19,Education,Education expense,54.5,UPI,45000
+695,2024-09-20,Education,Education expense,63.9,Net Banking,45000
+703,2024-09-20,Personal Care,Personal Care expense,15.74,UPI,45000
+788,2024-09-20,Utilities,Utilities expense,19.92,Debit Card,45000
+75,2024-09-21,Personal Care,Personal Care expense,10.95,UPI,45000
+331,2024-09-22,Entertainment,Entertainment expense,24.93,Debit Card,45000
+626,2024-09-22,Education,Education expense,47.33,Debit Card,45000
+993,2024-09-23,Entertainment,Entertainment expense,23.52,UPI,45000
+291,2024-09-24,Entertainment,Entertainment expense,23.75,UPI,45000
+514,2024-09-25,Utilities,Utilities expense,17.18,Cash,45000
+542,2024-09-25,Personal Care,Personal Care expense,14.68,Net Banking,45000
+889,2024-09-25,Food & Dining,Food & Dining expense,37.23,Cash,45000
+496,2024-09-26,Personal Care,Personal Care expense,18.85,Debit Card,45000
+666,2024-09-26,Personal Care,Personal Care expense,17.77,UPI,45000
+806,2024-09-26,Transportation,Transportation expense,20.76,UPI,45000
+55,2024-09-27,Personal Care,Personal Care expense,20.08,Debit Card,45000
+830,2024-09-27,Utilities,Utilities expense,18.44,Credit Card,45000
+914,2024-09-27,Transportation,Transportation expense,28.31,Cash,45000
+645,2024-09-28,Shopping,Shopping expense,37.05,Debit Card,45000
+898,2024-09-28,Food & Dining,Food & Dining expense,33.67,Debit Card,45000
+64,2024-09-28,Savings & Investment,Savings & Investment expense,61.08,Cash,45000
+376,2024-09-28,Entertainment,Entertainment expense,20.4,UPI,45000
+503,2024-09-29,Utilities,Utilities expense,16.2,Credit Card,45000
+243,2024-09-29,Education,Education expense,62.57,UPI,45000
+69,2024-09-29,Transportation,Transportation expense,23.45,Credit Card,45000
+833,2024-09-29,Utilities,Utilities expense,16.99,UPI,45000
+774,2024-09-30,Entertainment,Entertainment expense,30.84,Cash,45000
+976,2024-09-30,Utilities,Utilities expense,15.22,Net Banking,45000
+92,2024-10-01,Entertainment,Entertainment expense,30.81,UPI,45000
+10,2024-10-01,Rent,Monthly Rent,8108.51,Net Banking,45000
+408,2024-10-01,Healthcare,Healthcare expense,26.72,Cash,45000
+710,2024-10-01,Healthcare,Healthcare expense,43.27,Cash,45000
+804,2024-10-02,Personal Care,Personal Care expense,16.34,Credit Card,45000
+419,2024-10-02,Entertainment,Entertainment expense,32.08,Credit Card,45000
+73,2024-10-03,Entertainment,Entertainment expense,24.79,Credit Card,45000
+437,2024-10-03,Shopping,Shopping expense,59.54,Debit Card,45000
+657,2024-10-04,Savings & Investment,Savings & Investment expense,85.28,Debit Card,45000
+605,2024-10-05,Savings & Investment,Savings & Investment expense,93.27,Net Banking,45000
+427,2024-10-05,Education,Education expense,40.53,Debit Card,45000
+977,2024-10-05,Utilities,Utilities expense,18.1,Cash,45000
+619,2024-10-05,Utilities,Utilities expense,19.96,UPI,45000
+215,2024-10-06,Savings & Investment,Savings & Investment expense,78.69,Net Banking,45000
+612,2024-10-06,Education,Education expense,54.17,Debit Card,45000
+750,2024-10-06,Education,Education expense,33.9,Debit Card,45000
+809,2024-10-07,Food & Dining,Food & Dining expense,42.55,Net Banking,45000
+199,2024-10-07,Utilities,Utilities expense,19.12,UPI,45000
+884,2024-10-08,Personal Care,Personal Care expense,20.11,Debit Card,45000
+29,2024-10-09,Transportation,Transportation expense,19.6,Debit Card,45000
+353,2024-10-09,Education,Education expense,67.86,Net Banking,45000
+1000,2024-10-09,Shopping,Shopping expense,46.87,Credit Card,45000
+338,2024-10-09,Healthcare,Healthcare expense,25.11,Cash,45000
+662,2024-10-10,Education,Education expense,46.8,Net Banking,45000
+606,2024-10-10,Savings & Investment,Savings & Investment expense,122.54,Cash,45000
+880,2024-10-10,Healthcare,Healthcare expense,38.7,Net Banking,45000
+131,2024-10-10,Transportation,Transportation expense,15.8,Credit Card,45000
+259,2024-10-11,Healthcare,Healthcare expense,31.99,Cash,45000
+475,2024-10-11,Education,Education expense,79.67,Debit Card,45000
+290,2024-10-12,Transportation,Transportation expense,19.51,UPI,45000
+941,2024-10-12,Personal Care,Personal Care expense,14.3,Net Banking,45000
+406,2024-10-12,Utilities,Utilities expense,20.25,Debit Card,45000
+947,2024-10-13,Transportation,Transportation expense,15.9,Credit Card,45000
+817,2024-10-13,Food & Dining,Food & Dining expense,34.64,UPI,45000
+504,2024-10-13,Savings & Investment,Savings & Investment expense,96.26,Debit Card,45000
+756,2024-10-13,Education,Education expense,94.49,Debit Card,45000
+19,2024-10-14,Food & Dining,Food & Dining expense,25.24,Credit Card,45000
+649,2024-10-14,Utilities,Utilities expense,18.54,Cash,45000
+47,2024-10-14,Entertainment,Entertainment expense,22.24,Net Banking,45000
+918,2024-10-15,Savings & Investment,Savings & Investment expense,88.73,Cash,45000
+808,2024-10-15,Transportation,Transportation expense,20.09,Cash,45000
+922,2024-10-15,Shopping,Shopping expense,27.68,Credit Card,45000
+967,2024-10-15,Transportation,Transportation expense,19.29,Credit Card,45000
+682,2024-10-15,Education,Education expense,38.06,Cash,45000
+981,2024-10-15,Food & Dining,Food & Dining expense,38.79,UPI,45000
+524,2024-10-15,Personal Care,Personal Care expense,18.93,Net Banking,45000
+242,2024-10-16,Transportation,Transportation expense,21.54,Cash,45000
+786,2024-10-17,Healthcare,Healthcare expense,37.73,Credit Card,45000
+883,2024-10-18,Utilities,Utilities expense,18.02,Credit Card,45000
+714,2024-10-18,Food & Dining,Food & Dining expense,35.69,Net Banking,45000
+254,2024-10-18,Personal Care,Personal Care expense,20.08,Net Banking,45000
+84,2024-10-19,Shopping,Shopping expense,33.78,Net Banking,45000
+508,2024-10-20,Utilities,Utilities expense,17.27,UPI,45000
+810,2024-10-20,Entertainment,Entertainment expense,19.63,Net Banking,45000
+740,2024-10-20,Food & Dining,Food & Dining expense,40.61,Cash,45000
+212,2024-10-21,Food & Dining,Food & Dining expense,41.58,UPI,45000
+239,2024-10-21,Healthcare,Healthcare expense,22.04,UPI,45000
+667,2024-10-21,Utilities,Utilities expense,18.49,Cash,45000
+389,2024-10-21,Education,Education expense,69.26,Debit Card,45000
+845,2024-10-22,Education,Education expense,57.5,Net Banking,45000
+30,2024-10-22,Education,Education expense,50.62,Credit Card,45000
+238,2024-10-23,Transportation,Transportation expense,22.75,Cash,45000
+113,2024-10-23,Entertainment,Entertainment expense,25.36,Net Banking,45000
+985,2024-10-24,Savings & Investment,Savings & Investment expense,84.93,Net Banking,45000
+813,2024-10-25,Entertainment,Entertainment expense,33.68,UPI,45000
+707,2024-10-25,Entertainment,Entertainment expense,17.32,Debit Card,45000
+734,2024-10-25,Utilities,Utilities expense,15.59,Debit Card,45000
+794,2024-10-25,Healthcare,Healthcare expense,16.51,Net Banking,45000
+48,2024-10-26,Healthcare,Healthcare expense,37.51,UPI,45000
+920,2024-10-27,Entertainment,Entertainment expense,26.16,Credit Card,45000
+434,2024-10-27,Entertainment,Entertainment expense,29.31,Credit Card,45000
+468,2024-10-27,Food & Dining,Food & Dining expense,38.56,Net Banking,45000
+350,2024-10-27,Healthcare,Healthcare expense,26.08,Net Banking,45000
+21,2024-10-28,Personal Care,Personal Care expense,21.16,Debit Card,45000
+275,2024-10-28,Healthcare,Healthcare expense,19.17,Net Banking,45000
+440,2024-10-28,Entertainment,Entertainment expense,24.67,Debit Card,45000
+16,2024-10-29,Transportation,Transportation expense,19.75,UPI,45000
+529,2024-10-29,Healthcare,Healthcare expense,30.34,Cash,45000
+360,2024-10-29,Savings & Investment,Savings & Investment expense,68.46,Debit Card,45000
+680,2024-10-30,Shopping,Shopping expense,55.26,Net Banking,45000
+729,2024-10-30,Healthcare,Healthcare expense,23.14,Debit Card,45000
+251,2024-10-30,Utilities,Utilities expense,16.48,Debit Card,45000
+445,2024-10-30,Savings & Investment,Savings & Investment expense,58.91,Cash,45000
+197,2024-10-31,Savings & Investment,Savings & Investment expense,67.32,Debit Card,45000
+955,2024-10-31,Personal Care,Personal Care expense,17.29,Net Banking,45000
+839,2024-10-31,Transportation,Transportation expense,25.94,Cash,45000
+735,2024-11-01,Food & Dining,Food & Dining expense,40.73,UPI,45000
+456,2024-11-01,Utilities,Utilities expense,17.41,Net Banking,45000
+598,2024-11-01,Personal Care,Personal Care expense,15.05,Net Banking,45000
+564,2024-11-01,Shopping,Shopping expense,36.09,UPI,45000
+709,2024-11-01,Personal Care,Personal Care expense,12.3,UPI,45000
+11,2024-11-01,Rent,Monthly Rent,7907.32,Net Banking,45000
+53,2024-11-01,Utilities,Utilities expense,17.65,Cash,45000
+975,2024-11-02,Personal Care,Personal Care expense,16.38,UPI,45000
+312,2024-11-02,Transportation,Transportation expense,26.4,Cash,45000
+840,2024-11-02,Personal Care,Personal Care expense,16.97,Cash,45000
+346,2024-11-02,Entertainment,Entertainment expense,26.39,Net Banking,45000
+628,2024-11-04,Utilities,Utilities expense,18.75,Credit Card,45000
+722,2024-11-04,Entertainment,Entertainment expense,14.74,Net Banking,45000
+642,2024-11-05,Food & Dining,Food & Dining expense,45.85,Credit Card,45000
+72,2024-11-06,Savings & Investment,Savings & Investment expense,115.76,UPI,45000
+392,2024-11-06,Food & Dining,Food & Dining expense,36.44,UPI,45000
+164,2024-11-06,Utilities,Utilities expense,17.36,Net Banking,45000
+37,2024-11-07,Transportation,Transportation expense,22.84,Credit Card,45000
+62,2024-11-07,Savings & Investment,Savings & Investment expense,81.29,Credit Card,45000
+751,2024-11-08,Healthcare,Healthcare expense,19.69,UPI,45000
+294,2024-11-08,Food & Dining,Food & Dining expense,39.3,Cash,45000
+787,2024-11-08,Shopping,Shopping expense,50.01,UPI,45000
+568,2024-11-08,Personal Care,Personal Care expense,14.98,Debit Card,45000
+378,2024-11-08,Transportation,Transportation expense,22.73,UPI,45000
+651,2024-11-09,Entertainment,Entertainment expense,36.09,Debit Card,45000
+127,2024-11-09,Healthcare,Healthcare expense,19.09,Net Banking,45000
+664,2024-11-09,Shopping,Shopping expense,33.48,Cash,45000
+198,2024-11-09,Personal Care,Personal Care expense,17.88,Net Banking,45000
+634,2024-11-10,Education,Education expense,48.6,UPI,45000
+837,2024-11-10,Utilities,Utilities expense,22.1,Cash,45000
+590,2024-11-11,Personal Care,Personal Care expense,15.36,Cash,45000
+423,2024-11-11,Personal Care,Personal Care expense,16.88,UPI,45000
+700,2024-11-11,Utilities,Utilities expense,18.63,UPI,45000
+176,2024-11-11,Shopping,Shopping expense,49.93,Net Banking,45000
+685,2024-11-12,Utilities,Utilities expense,16.56,Cash,45000
+511,2024-11-12,Shopping,Shopping expense,43.25,UPI,45000
+489,2024-11-12,Shopping,Shopping expense,60.25,Cash,45000
+903,2024-11-13,Entertainment,Entertainment expense,25.17,Net Banking,45000
+114,2024-11-13,Food & Dining,Food & Dining expense,52.21,Cash,45000
+148,2024-11-13,Utilities,Utilities expense,16.36,Credit Card,45000
+220,2024-11-14,Shopping,Shopping expense,40.98,Net Banking,45000
+365,2024-11-15,Education,Education expense,65.35,UPI,45000
+454,2024-11-15,Healthcare,Healthcare expense,32.54,Net Banking,45000
+718,2024-11-15,Healthcare,Healthcare expense,29.35,Net Banking,45000
+170,2024-11-15,Education,Education expense,43.69,Debit Card,45000
+850,2024-11-16,Shopping,Shopping expense,33.63,UPI,45000
+295,2024-11-16,Entertainment,Entertainment expense,27.14,Credit Card,45000
+303,2024-11-16,Healthcare,Healthcare expense,34.73,Net Banking,45000
+332,2024-11-16,Personal Care,Personal Care expense,15.26,UPI,45000
+52,2024-11-17,Shopping,Shopping expense,35.38,Credit Card,45000
+396,2024-11-17,Transportation,Transportation expense,20.12,Cash,45000
+686,2024-11-17,Personal Care,Personal Care expense,19.28,Net Banking,45000
+523,2024-11-17,Shopping,Shopping expense,32.05,UPI,45000
+526,2024-11-17,Education,Education expense,27.93,Debit Card,45000
+599,2024-11-19,Food & Dining,Food & Dining expense,28.95,Net Banking,45000
+614,2024-11-19,Personal Care,Personal Care expense,14.69,Credit Card,45000
+546,2024-11-19,Food & Dining,Food & Dining expense,26.12,Debit Card,45000
+371,2024-11-20,Transportation,Transportation expense,22.1,Cash,45000
+972,2024-11-20,Shopping,Shopping expense,31.83,Debit Card,45000
+677,2024-11-21,Entertainment,Entertainment expense,18.34,Net Banking,45000
+320,2024-11-21,Utilities,Utilities expense,18.74,UPI,45000
+247,2024-11-21,Education,Education expense,47.88,UPI,45000
+34,2024-11-21,Personal Care,Personal Care expense,14.86,Debit Card,45000
+410,2024-11-22,Utilities,Utilities expense,20.03,Debit Card,45000
+385,2024-11-23,Healthcare,Healthcare expense,21.17,UPI,45000
+596,2024-11-23,Utilities,Utilities expense,17.98,Net Banking,45000
+635,2024-11-23,Healthcare,Healthcare expense,18.89,Cash,45000
+780,2024-11-24,Personal Care,Personal Care expense,19.05,Net Banking,45000
+687,2024-11-24,Healthcare,Healthcare expense,25.84,Debit Card,45000
+45,2024-11-25,Utilities,Utilities expense,16.04,UPI,45000
+554,2024-11-25,Utilities,Utilities expense,19.51,Debit Card,45000
+852,2024-11-25,Education,Education expense,46.67,UPI,45000
+556,2024-11-26,Transportation,Transportation expense,20.35,UPI,45000
+540,2024-11-26,Savings & Investment,Savings & Investment expense,73.46,Credit Card,45000
+913,2024-11-26,Utilities,Utilities expense,19.5,Debit Card,45000
+862,2024-11-27,Education,Education expense,32.26,Cash,45000
+414,2024-11-27,Entertainment,Entertainment expense,32.67,Cash,45000
+341,2024-11-27,Transportation,Transportation expense,18.71,Credit Card,45000
+230,2024-11-28,Entertainment,Entertainment expense,29.08,Cash,45000
+684,2024-11-29,Healthcare,Healthcare expense,32.4,Credit Card,45000
+318,2024-11-29,Savings & Investment,Savings & Investment expense,78.79,UPI,45000
+249,2024-11-29,Savings & Investment,Savings & Investment expense,120.31,Debit Card,45000
+771,2024-11-29,Personal Care,Personal Care expense,19.27,Credit Card,45000
+828,2024-11-30,Shopping,Shopping expense,33.73,Debit Card,45000
+736,2024-12-01,Healthcare,Healthcare expense,32.25,Net Banking,45000
+522,2024-12-01,Shopping,Shopping expense,46.52,Cash,45000
+12,2024-12-01,Rent,Monthly Rent,7906.85,Net Banking,45000
+191,2024-12-01,Shopping,Shopping expense,34.64,Cash,45000
+115,2024-12-02,Utilities,Utilities expense,18.62,Net Banking,45000
+447,2024-12-03,Food & Dining,Food & Dining expense,35.43,Net Banking,45000
+70,2024-12-03,Shopping,Shopping expense,32.26,UPI,45000
+87,2024-12-03,Transportation,Transportation expense,25.66,UPI,45000
+895,2024-12-03,Personal Care,Personal Care expense,20.96,UPI,45000
+296,2024-12-04,Healthcare,Healthcare expense,21.76,Cash,45000
+103,2024-12-04,Savings & Investment,Savings & Investment expense,78.15,UPI,45000
+847,2024-12-04,Shopping,Shopping expense,43.47,Net Banking,45000
+747,2024-12-05,Education,Education expense,57.8,UPI,45000
+266,2024-12-05,Healthcare,Healthcare expense,16.77,Net Banking,45000
+325,2024-12-05,Healthcare,Healthcare expense,18.95,UPI,45000
+430,2024-12-05,Transportation,Transportation expense,14.97,Credit Card,45000
+129,2024-12-05,Healthcare,Healthcare expense,28.9,Cash,45000
+175,2024-12-06,Utilities,Utilities expense,19.55,UPI,45000
+172,2024-12-07,Healthcare,Healthcare expense,20.66,UPI,45000
+128,2024-12-07,Food & Dining,Food & Dining expense,27.97,Net Banking,45000
+117,2024-12-08,Entertainment,Entertainment expense,24.79,Debit Card,45000
+890,2024-12-08,Transportation,Transportation expense,26.43,Cash,45000
+234,2024-12-08,Personal Care,Personal Care expense,15.87,Cash,45000
+36,2024-12-09,Entertainment,Entertainment expense,17.67,Debit Card,45000
+119,2024-12-09,Shopping,Shopping expense,53.71,Debit Card,45000
+555,2024-12-09,Shopping,Shopping expense,44.05,Net Banking,45000
+636,2024-12-09,Transportation,Transportation expense,15.38,UPI,45000
+316,2024-12-10,Food & Dining,Food & Dining expense,32.67,Debit Card,45000
+971,2024-12-10,Utilities,Utilities expense,19.26,UPI,45000
+111,2024-12-11,Transportation,Transportation expense,14.32,Credit Card,45000
+315,2024-12-11,Entertainment,Entertainment expense,32.83,Net Banking,45000
+411,2024-12-11,Transportation,Transportation expense,24.85,Credit Card,45000
+181,2024-12-11,Personal Care,Personal Care expense,19.06,Credit Card,45000
+15,2024-12-12,Transportation,Transportation expense,15.1,Net Banking,45000
+923,2024-12-12,Utilities,Utilities expense,19.27,Net Banking,45000
+495,2024-12-13,Healthcare,Healthcare expense,41.71,Net Banking,45000
+548,2024-12-13,Savings & Investment,Savings & Investment expense,80.94,UPI,45000
+545,2024-12-13,Education,Education expense,17.93,Net Banking,45000
+395,2024-12-13,Healthcare,Healthcare expense,38.61,Credit Card,45000
+805,2024-12-14,Entertainment,Entertainment expense,22.39,Net Banking,45000
+525,2024-12-14,Personal Care,Personal Care expense,15.59,Net Banking,45000
+146,2024-12-15,Entertainment,Entertainment expense,29.69,Credit Card,45000
+655,2024-12-15,Transportation,Transportation expense,32.29,Debit Card,45000
+827,2024-12-15,Transportation,Transportation expense,28.32,Net Banking,45000
+613,2024-12-16,Shopping,Shopping expense,43.36,UPI,45000
+908,2024-12-16,Healthcare,Healthcare expense,34.72,Cash,45000
+917,2024-12-16,Transportation,Transportation expense,24.43,Debit Card,45000
+450,2024-12-17,Utilities,Utilities expense,16.88,Cash,45000
+798,2024-12-17,Utilities,Utilities expense,20.36,Net Banking,45000
+168,2024-12-17,Savings & Investment,Savings & Investment expense,122.94,Credit Card,45000
+309,2024-12-18,Personal Care,Personal Care expense,18.87,Debit Card,45000
+141,2024-12-19,Transportation,Transportation expense,22.91,Credit Card,45000
+799,2024-12-19,Healthcare,Healthcare expense,28.25,Cash,45000
+273,2024-12-19,Savings & Investment,Savings & Investment expense,108.26,Credit Card,45000
+743,2024-12-19,Utilities,Utilities expense,17.75,Credit Card,45000
+265,2024-12-20,Utilities,Utilities expense,18.49,Credit Card,45000
+324,2024-12-21,Utilities,Utilities expense,23.18,UPI,45000
+964,2024-12-21,Healthcare,Healthcare expense,34.38,UPI,45000
+995,2024-12-22,Personal Care,Personal Care expense,15.0,UPI,45000
+189,2024-12-22,Entertainment,Entertainment expense,19.92,UPI,45000
+193,2024-12-22,Shopping,Shopping expense,42.57,Net Banking,45000
+907,2024-12-22,Entertainment,Entertainment expense,16.84,Credit Card,45000
+335,2024-12-23,Personal Care,Personal Care expense,19.94,UPI,45000
+355,2024-12-23,Entertainment,Entertainment expense,24.89,Credit Card,45000
+900,2024-12-23,Savings & Investment,Savings & Investment expense,68.66,UPI,45000
+281,2024-12-23,Healthcare,Healthcare expense,29.02,Credit Card,45000
+821,2024-12-24,Education,Education expense,47.24,Cash,45000
+415,2024-12-24,Personal Care,Personal Care expense,18.33,Debit Card,45000
+978,2024-12-25,Education,Education expense,18.64,Net Banking,45000
+480,2024-12-25,Healthcare,Healthcare expense,38.08,Debit Card,45000
+807,2024-12-26,Savings & Investment,Savings & Investment expense,89.44,Debit Card,45000
+589,2024-12-27,Shopping,Shopping expense,49.96,UPI,45000
+139,2024-12-27,Savings & Investment,Savings & Investment expense,101.27,UPI,45000
+857,2024-12-28,Healthcare,Healthcare expense,20.51,Credit Card,45000
+731,2024-12-28,Personal Care,Personal Care expense,17.99,Net Banking,45000
+337,2024-12-29,Entertainment,Entertainment expense,20.05,Credit Card,45000
+997,2024-12-29,Food & Dining,Food & Dining expense,46.88,Cash,45000
+656,2024-12-29,Education,Education expense,55.89,Cash,45000
+577,2024-12-30,Transportation,Transportation expense,22.94,Net Banking,45000
+935,2024-12-30,Utilities,Utilities expense,19.88,Credit Card,45000
+455,2024-12-30,Savings & Investment,Savings & Investment expense,74.39,Debit Card,45000
+451,2024-12-30,Personal Care,Personal Care expense,17.34,UPI,45000
+654,2024-12-31,Shopping,Shopping expense,26.72,UPI,45000
+539,2024-12-31,Education,Education expense,70.09,Cash,45000
